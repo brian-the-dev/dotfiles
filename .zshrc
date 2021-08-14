@@ -118,3 +118,9 @@ fi
 export GPG_TTY=$TTY
 gpg-connect-agent updatestartuptty /bye > /dev/null
 
+
+# Python binaries
+PATH=$PATH:/home/brian/.local/bin
+
+# Ruby gem binaries
+PATH=$PATH:/home/brian/.local/share/gem/ruby/3.0.0/bin
