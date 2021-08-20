@@ -1,0 +1,10 @@
+[user]
+	name = Brian
+	email = brian@brianthe.dev
+	signingkey = 05220072C212615B8E9DE81470D681DFFFB88C21
+[gpg]
+	program = /usr/bin/gpg2
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = main
