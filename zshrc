@@ -130,3 +130,6 @@ JAVA_HOME="/usr/lib/jvm/java-16-openjdk"
 ANDROID_SDK_ROOT="/opt/android-sdk"
 PATH=$PATH:/opt/flutter/bin:/opt/android-sdk/tools/bin:/opt/android-sdk/platform-tools
 export CHROME_EXECUTABLE=/usr/bin/brave
+
+# Colorls
+alias ls=colorls
